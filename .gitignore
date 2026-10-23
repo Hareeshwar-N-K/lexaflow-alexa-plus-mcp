@@ -1,2 +1,17 @@
+node_modules/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+coverage/
+tmp/
+data/*.tmp
+data/*.bak
+
+# Local-only hackathon material (never published)
 Docs/
 Instructions.txt
